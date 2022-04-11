@@ -1,0 +1,6 @@
+export const LOG_IN_ACTION = "LOG_IN_ACTION";
+export const REGISTER_ACTION = "REGISTER_ACTION";
+export const SET_USER_INFO = "SET_USER_INFO";
+export const GET_USERS_LIST = "GET_USERS_LIST";
+export const GET_USER_DETAIL = "GET_USER_DETAIL";
+export const REMOVE_USER = "REMOVE_USER";
