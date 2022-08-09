@@ -507,6 +507,8 @@ const CheckoutHistory = (props) => {
     dispatch(getUserInfoAction());
   }, []);
 
+  const Test = () => {};
+
   return (
     <div className={styles.history}>
       <Container maxWidth='lg'>
